@@ -1,11 +1,10 @@
 ---
-permalink: /contact/
+layout: archive
 title: "联系作者"
-excerpt: "Contact me"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
+redirect_from:
+  - /contact
 ---
 
 Contact Info: 
