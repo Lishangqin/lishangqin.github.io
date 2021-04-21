@@ -7,5 +7,5 @@ redirect_from:
   - /contact
 ---
 
-电子邮件： lishangqin[AT]hotmail.com
-==
+电子邮件： lishangqin@hotmail.com
+====
