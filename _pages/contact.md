@@ -7,4 +7,5 @@ redirect_from:
   - /contact
 ---
 
-Contact Info: 
+电子邮件： lishangqin@hotmail.com
+==
