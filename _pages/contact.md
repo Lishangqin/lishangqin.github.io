@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 redirect_from: 
   - /contact/
-  - /contact.md
+  - /contact.html
 ---
 
 Contact Info: 
