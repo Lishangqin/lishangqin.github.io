@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到李尚勤个人网站"
+title: "欢迎来到李尚勤个人网站!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
